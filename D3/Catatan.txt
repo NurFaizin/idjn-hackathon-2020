@@ -1,0 +1,3 @@
+- Pada Visual Studio, buka terminal dan ketik: "python -m http.server"
+
+- Buka Browser, ketik: "localhost:8000"
